@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yaoyuh-cmu/yaoyuh-cmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me #
+## About Me ##
 
 I'm a Senior Project Scientist in the [AirLab](https://theairlab.org) at Carnegie Mellon University. My primary focus right now is building robots using machine learning and dealing with real-world challenges.
